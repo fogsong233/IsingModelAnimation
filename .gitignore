@@ -1,0 +1,6 @@
+media/
+.idea/
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
